@@ -2,7 +2,7 @@
 A powerful and flexible command-line tool to automatically organize and manage your ebook collection using an Ollama LLM and python.
 
 What It Does
-ebook-organizer scans a source directory for ebook files (like EPUB, MOBI, PDF, etc.), extracts their metadata (title, author), and moves them to a target directory in a clean, hierarchical structure.
+ebook-organizer scans a source directory for ebook files (like EPUB, MOBI, PDF, etc.), extracts their metadata (title, author), and moves them to a target directory in a clean, hierarchical structure based on this, llm decision making, search, and if required user input.
 
 It operates in two distinct modes to suit your workflow:
 
