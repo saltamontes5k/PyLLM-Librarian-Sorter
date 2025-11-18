@@ -59,22 +59,22 @@ q (quit): Exit the script.
 Example: Before & After
 Running the script can transform a messy folder into a well-organized library.
 
-Before (Source Directory):
+Before:
 Unsorted_Books/
 ├── a-great-book_v2.epub
 ├── learning_python.pdf
 ├── some-other-mobi-file.mobi
 └── The_Hobbit-Tolkien.epub
 
-After (Target Directory):
+After:
+Biographical or Memoir
+├── a-great-book_v2.epub
+Computer Science
+├── learning_python.pdf
+Educational or Pedagogy
+├── some-other-mobi-file.mobi
+Fantasy
+└── The_Hobbit-Tolkien.epub
 
-Ebook Library/
-├── J. R. R. Tolkien/
 │   └── The Hobbit/
 │       └── The_Hobbit-Tolkien.epub
-├── Jane Doe/
-│   └── A Great Book/
-│       └── a-great-book_v2.epub
-└── Mark Lutz/
-    └── Learning Python/
-        └── learning_python.pdf
